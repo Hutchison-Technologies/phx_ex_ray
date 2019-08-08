@@ -33,7 +33,7 @@ defmodule PhxExRay.MixProject do
   defp deps do
     [
       {:ex_doc, ">= 0.0.0", only: :dev},
-      {:ex_ray , github: "sashman/ex_ray"},
+      {:ex_ray , github: "Hutchison-Technologies/ex_ray"},
     ]
   end
 end
